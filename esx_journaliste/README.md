@@ -26,3 +26,4 @@ start esx_journaliste
 ```
 5) * If you want player management you have to set Config.EnablePlayerManagement to true in config.lua
 
+Thanks to ESX team
